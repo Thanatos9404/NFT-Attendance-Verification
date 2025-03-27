@@ -1,0 +1,15 @@
+[package]
+name = "NFTAttendanceVerification"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x7a037c63f4880a61cee40a7329131055898a41bf49340e95e673ab9aa4b916d1"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
