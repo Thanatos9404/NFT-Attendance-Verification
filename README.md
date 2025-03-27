@@ -85,8 +85,8 @@ MIT License
 5. Open a Pull Request
 
 ## 12. Contact
-- Project Link: [https://github.com/yourusername/nft-attendance-verification](https://github.com/yourusername/nft-attendance-verification)
-- Email: your.email@example.com
+- Project Link: [https://github.com/Thanatos9404/nft-attendance-verification](https://github.com/Thanatos9404/nft-attendance-verification)
+- Email: yashvt9404@gmail.com
 
 ## 13. Acknowledgments
 - Aptos Foundation
